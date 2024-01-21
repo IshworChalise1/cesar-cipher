@@ -140,6 +140,4 @@ def main():
             break
 
 # 11: Run the main function if the script is executed
-                
-if __name__ == "__main__":
-    main()
+main()
